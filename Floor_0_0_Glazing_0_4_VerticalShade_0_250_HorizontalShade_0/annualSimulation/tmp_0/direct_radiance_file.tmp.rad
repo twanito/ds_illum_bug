@@ -1,0 +1,633 @@
+# Radiance input file generate by DAYSIM subbprogram gen_dc for the 
+# calculation of direct daylight coefficients 
+
+void light solar1
+0 
+0 
+3 1000 1000 1000
+
+solar1 source sun
+0
+0
+4 0.648769 -0.760184 0.034925 0.533
+
+void light solar2
+0 
+0 
+3 1000 1000 1000
+
+solar2 source sun
+0
+0
+4 0.458762 -0.880856 0.116748 0.533
+
+void light solar3
+0 
+0 
+3 1000 1000 1000
+
+solar3 source sun
+0
+0
+4 0.237485 -0.956720 0.168188 0.533
+
+void light solar4
+0 
+0 
+3 1000 1000 1000
+
+solar4 source sun
+0
+0
+4 0.000026 -0.982600 0.185732 0.533
+
+void light solar5
+0 
+0 
+3 1000 1000 1000
+
+solar5 source sun
+0
+0
+4 -0.237435 -0.956733 0.168188 0.533
+
+void light solar6
+0 
+0 
+3 1000 1000 1000
+
+solar6 source sun
+0
+0
+4 -0.458716 -0.880880 0.116748 0.533
+
+void light solar7
+0 
+0 
+3 1000 1000 1000
+
+solar7 source sun
+0
+0
+4 -0.648729 -0.760218 0.034925 0.533
+
+void light solar8
+0 
+0 
+3 1000 1000 1000
+
+solar8 source sun
+0
+0
+4 0.917665 -0.395818 0.034925 0.533
+
+void light solar9
+0 
+0 
+3 1000 1000 1000
+
+solar9 source sun
+0
+0
+4 0.849701 -0.514483 0.115389 0.533
+
+void light solar10
+0 
+0 
+3 1000 1000 1000
+
+solar10 source sun
+0
+0
+4 0.693782 -0.682664 0.229427 0.533
+
+void light solar11
+0 
+0 
+3 1000 1000 1000
+
+solar11 source sun
+0
+0
+4 0.490585 -0.811715 0.316932 0.533
+
+void light solar12
+0 
+0 
+3 1000 1000 1000
+
+solar12 source sun
+0
+0
+4 0.253957 -0.892842 0.371939 0.533
+
+void light solar13
+0 
+0 
+3 1000 1000 1000
+
+solar13 source sun
+0
+0
+4 0.000024 -0.920518 0.390701 0.533
+
+void light solar14
+0 
+0 
+3 1000 1000 1000
+
+solar14 source sun
+0
+0
+4 -0.253910 -0.892855 0.371939 0.533
+
+void light solar15
+0 
+0 
+3 1000 1000 1000
+
+solar15 source sun
+0
+0
+4 -0.490542 -0.811741 0.316932 0.533
+
+void light solar16
+0 
+0 
+3 1000 1000 1000
+
+solar16 source sun
+0
+0
+4 -0.693746 -0.682701 0.229427 0.533
+
+void light solar17
+0 
+0 
+3 1000 1000 1000
+
+solar17 source sun
+0
+0
+4 -0.849674 -0.514528 0.115389 0.533
+
+void light solar18
+0 
+0 
+3 1000 1000 1000
+
+solar18 source sun
+0
+0
+4 -0.917644 -0.395866 0.034925 0.533
+
+void light solar19
+0 
+0 
+3 1000 1000 1000
+
+solar19 source sun
+0
+0
+4 0.997344 -0.063919 0.034925 0.533
+
+void light solar20
+0 
+0 
+3 1000 1000 1000
+
+solar20 source sun
+0
+0
+4 0.965900 -0.218129 0.139490 0.533
+
+void light solar21
+0 
+0 
+3 1000 1000 1000
+
+solar21 source sun
+0
+0
+4 0.866002 -0.417737 0.274839 0.533
+
+void light solar22
+0 
+0 
+3 1000 1000 1000
+
+solar22 source sun
+0
+0
+4 0.707091 -0.589144 0.391065 0.533
+
+void light solar23
+0 
+0 
+3 1000 1000 1000
+
+solar23 source sun
+0
+0
+4 0.499995 -0.720671 0.480248 0.533
+
+void light solar24
+0 
+0 
+3 1000 1000 1000
+
+solar24 source sun
+0
+0
+4 0.258827 -0.803355 0.536311 0.533
+
+void light solar25
+0 
+0 
+3 1000 1000 1000
+
+solar25 source sun
+0
+0
+4 0.000022 -0.831561 0.555433 0.533
+
+void light solar26
+0 
+0 
+3 1000 1000 1000
+
+solar26 source sun
+0
+0
+4 -0.258785 -0.803368 0.536311 0.533
+
+void light solar27
+0 
+0 
+3 1000 1000 1000
+
+solar27 source sun
+0
+0
+4 -0.499957 -0.720698 0.480248 0.533
+
+void light solar28
+0 
+0 
+3 1000 1000 1000
+
+solar28 source sun
+0
+0
+4 -0.707059 -0.589182 0.391065 0.533
+
+void light solar29
+0 
+0 
+3 1000 1000 1000
+
+solar29 source sun
+0
+0
+4 -0.865980 -0.417782 0.274839 0.533
+
+void light solar30
+0 
+0 
+3 1000 1000 1000
+
+solar30 source sun
+0
+0
+4 -0.965888 -0.218179 0.139490 0.533
+
+void light solar31
+0 
+0 
+3 1000 1000 1000
+
+solar31 source sun
+0
+0
+4 -0.997340 -0.063972 0.034925 0.533
+
+void light solar32
+0 
+0 
+3 1000 1000 1000
+
+solar32 source sun
+0
+0
+4 0.952167 0.303575 0.034925 0.533
+
+void light solar33
+0 
+0 
+3 1000 1000 1000
+
+solar33 source sun
+0
+0
+4 0.979943 0.111825 0.164944 0.533
+
+void light solar34
+0 
+0 
+3 1000 1000 1000
+
+solar34 source sun
+0
+0
+4 0.946550 -0.098091 0.307282 0.533
+
+void light solar35
+0 
+0 
+3 1000 1000 1000
+
+solar35 source sun
+0
+0
+4 0.848653 -0.293700 0.439919 0.533
+
+void light solar36
+0 
+0 
+3 1000 1000 1000
+
+solar36 source sun
+0
+0
+4 0.692924 -0.461674 0.553817 0.533
+
+void light solar37
+0 
+0 
+3 1000 1000 1000
+
+solar37 source sun
+0
+0
+4 0.489976 -0.590566 0.641214 0.533
+
+void light solar38
+0 
+0 
+3 1000 1000 1000
+
+solar38 source sun
+0
+0
+4 0.253639 -0.671593 0.696154 0.533
+
+void light solar39
+0 
+0 
+3 1000 1000 1000
+
+solar39 source sun
+0
+0
+4 0.000018 -0.699234 0.714893 0.533
+
+void light solar40
+0 
+0 
+3 1000 1000 1000
+
+solar40 source sun
+0
+0
+4 -0.253604 -0.671606 0.696154 0.533
+
+void light solar41
+0 
+0 
+3 1000 1000 1000
+
+solar41 source sun
+0
+0
+4 -0.489945 -0.590592 0.641214 0.533
+
+void light solar42
+0 
+0 
+3 1000 1000 1000
+
+solar42 source sun
+0
+0
+4 -0.692900 -0.461711 0.553817 0.533
+
+void light solar43
+0 
+0 
+3 1000 1000 1000
+
+solar43 source sun
+0
+0
+4 -0.848637 -0.293745 0.439919 0.533
+
+void light solar44
+0 
+0 
+3 1000 1000 1000
+
+solar44 source sun
+0
+0
+4 -0.946544 -0.098141 0.307282 0.533
+
+void light solar45
+0 
+0 
+3 1000 1000 1000
+
+solar45 source sun
+0
+0
+4 -0.979949 0.111774 0.164944 0.533
+
+void light solar46
+0 
+0 
+3 1000 1000 1000
+
+solar46 source sun
+0
+0
+4 -0.952183 0.303524 0.034925 0.533
+
+void light solar47
+0 
+0 
+3 1000 1000 1000
+
+solar47 source sun
+0
+0
+4 0.752611 0.657539 0.034925 0.533
+
+void light solar48
+0 
+0 
+3 1000 1000 1000
+
+solar48 source sun
+0
+0
+4 0.886162 0.419834 0.196103 0.533
+
+void light solar49
+0 
+0 
+3 1000 1000 1000
+
+solar49 source sun
+0
+0
+4 0.917418 0.223310 0.329359 0.533
+
+void light solar50
+0 
+0 
+3 1000 1000 1000
+
+solar50 source sun
+0
+0
+4 0.886154 0.026787 0.462615 0.533
+
+void light solar51
+0 
+0 
+3 1000 1000 1000
+
+solar51 source sun
+0
+0
+4 0.794503 -0.156342 0.586789 0.533
+
+void light solar52
+0 
+0 
+3 1000 1000 1000
+
+solar52 source sun
+0
+0
+4 0.648710 -0.313598 0.693420 0.533
+
+void light solar53
+0 
+0 
+3 1000 1000 1000
+
+solar53 source sun
+0
+0
+4 0.458711 -0.434266 0.775241 0.533
+
+void light solar54
+0 
+0 
+3 1000 1000 1000
+
+solar54 source sun
+0
+0
+4 0.237453 -0.510122 0.826675 0.533
+
+void light solar55
+0 
+0 
+3 1000 1000 1000
+
+solar55 source sun
+0
+0
+4 0.000014 -0.535999 0.844218 0.533
+
+void light solar56
+0 
+0 
+3 1000 1000 1000
+
+solar56 source sun
+0
+0
+4 -0.237426 -0.510135 0.826675 0.533
+
+void light solar57
+0 
+0 
+3 1000 1000 1000
+
+solar57 source sun
+0
+0
+4 -0.458688 -0.434290 0.775241 0.533
+
+void light solar58
+0 
+0 
+3 1000 1000 1000
+
+solar58 source sun
+0
+0
+4 -0.648694 -0.313632 0.693420 0.533
+
+void light solar59
+0 
+0 
+3 1000 1000 1000
+
+solar59 source sun
+0
+0
+4 -0.794495 -0.156384 0.586789 0.533
+
+void light solar60
+0 
+0 
+3 1000 1000 1000
+
+solar60 source sun
+0
+0
+4 -0.886156 0.026741 0.462615 0.533
+
+void light solar61
+0 
+0 
+3 1000 1000 1000
+
+solar61 source sun
+0
+0
+4 -0.917429 0.223262 0.329359 0.533
+
+void light solar62
+0 
+0 
+3 1000 1000 1000
+
+solar62 source sun
+0
+0
+4 -0.886184 0.419787 0.196103 0.533
+
+void light solar63
+0 
+0 
+3 1000 1000 1000
+
+solar63 source sun
+0
+0
+4 -0.752645 0.657499 0.034925 0.533
+

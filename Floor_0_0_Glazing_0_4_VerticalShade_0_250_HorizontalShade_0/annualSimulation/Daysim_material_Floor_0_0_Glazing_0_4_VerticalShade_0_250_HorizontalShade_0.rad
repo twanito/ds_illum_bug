@@ -1,0 +1,55 @@
+#####################################################
+# Daysim Material File           
+#####################################################
+# This file has been created with radfiles2daysim     
+# Copyright (c) Christoph Reinhart           	      
+# National Research Council Canada           	      
+# IRC, Lighting Group                               
+# Ont K1A 0R6, Canada                               
+#####################################################
+ 
+# radfiles2daysima is a converter used by the DAYSIM GUI to
+# import regular RADIANCE scene and material into DAYSIM
+# format, i.e. only materials supported by Daysim are 
+# admitted. Those admitted are turned monochrome.
+ 
+# This file contains the definitions of all materials in
+# the RADIANCE scene.
+# The scene geometry is stored in 'C:\Users\adao\Desktop\Glasgow_Uni_Parametric\Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0\annualSimulation\\Daysim_Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0.rad'.
+ 
+
+# SOURCE FILE: C:\Users\adao\Desktop\Glasgow_Uni_Parametric\Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0\annualSimulation\\material_Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0.rad 
+
+void plastic Context_Material 0 0 5 0.3500 0.3500 0.3500 0.0000 0.0000 
+
+void plastic Interior_Ceiling 0 0 5 0.8000 0.8000 0.8000 0.0000 0.0000 
+
+void plastic Interior_Floor 0 0 5 0.2000 0.2000 0.2000 0.0000 0.0000 
+
+void plastic Exterior_Floor 0 0 5 0.2000 0.2000 0.2000 0.0000 0.0000 
+
+void glass Exterior_Window 0 0 3 0.6540 0.6540 0.6540 
+
+void glass Interior_Window 0 0 3 0.6540 0.6540 0.6540 
+
+void plastic Exterior_Roof 0 0 5 0.8000 0.8000 0.8000 0.0000 0.0000 
+
+void plastic Exterior_Wall 0 0 5 0.5000 0.5000 0.5000 0.0000 0.0000 
+
+void plastic Interior_Wall 0 0 5 0.5000 0.5000 0.5000 0.0000 0.0000 
+
+void plastic Floor 0 0 5 0.2000 0.2000 0.2000 0.0000 0.0500 
+
+void plastic Walls 0 0 5 0.5000 0.5000 0.5000 0.0000 0.0500 
+
+void plastic Context 0 0 5 0.2000 0.2000 0.2000 0.0000 0.0500 
+
+void plastic Ceiling 0 0 5 0.7000 0.7000 0.7000 0.0000 0.0500 
+
+void glass Internal_Glazing 0 0 4 0.5450 0.5450 0.5450 1.520 
+
+void glass External_Glazing 0 0 4 0.5450 0.5450 0.5450 1.520 
+
+
+# SOURCE FILE: C:\Users\adao\Desktop\Glasgow_Uni_Parametric\Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0\annualSimulation\Floor_0_0_Glazing_0_4_VerticalShade_0_250_HorizontalShade_0.rad 
+
